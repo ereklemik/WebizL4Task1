@@ -1,0 +1,6 @@
+.container{
+    display:gird;
+    grid-template-columns: 1fr;
+    grid-auto-rows:minmax(200px);
+    
+}
